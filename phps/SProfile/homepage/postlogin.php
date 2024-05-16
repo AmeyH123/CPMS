@@ -254,7 +254,6 @@ if ($_SESSION["username"]) {
                         <h5 class="card-title">Past Placements</h5>
                         <p class="card-text">Check placement records of past years and analysis</p>
                         <a href="#" class="btn btn-primary">Click here</a>
-                        <!-- <a href="https://sggsplacements.in/placements" class="btn btn-primary">Click here</a> -->
                     </div>
                 </div>
             </div>
