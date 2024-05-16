@@ -12,6 +12,8 @@ To run this project locally, follow these steps:
 5.  Import Database : In PHPMyAdmin, navigate to the newly created database and import the   Revised.sql   and   placement.sql   files from the repository you cloned in step 2. These files contain the necessary database structure and initial data for the project.
 6.  Run the Application : Once the databases are imported, you're all set! Open your web browser and navigate to   http://localhost/phps/homepage/home7.php   to access the project.
 
+Screenshots: 
+
 ![home1](https://github.com/AmeyH123/CPMS/assets/105809100/7bc0c436-67e3-4c14-9296-e1394c91ef63)
 
 ![home2](https://github.com/AmeyH123/CPMS/assets/105809100/36c8bedb-3313-47a4-86d8-cb8bad60c89f)
